@@ -1,0 +1,22 @@
+{
+  "name": "pro-backend",
+  "version": "1.0.0",
+  "description": "This is the professional setup, from chai aur code.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [
+    "Javascript",
+    "Node",
+    "npm",
+    "code",
+    "chai"
+  ],
+  "author": "Hiten Gupta",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.10",
+    "prettier": "^3.6.2"
+  }
+}
